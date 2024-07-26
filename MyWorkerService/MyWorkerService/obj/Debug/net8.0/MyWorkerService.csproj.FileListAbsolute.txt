@@ -1,0 +1,16 @@
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\bin\Debug\net8.0\appsettings.json
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\bin\Debug\net8.0\MyWorkerService.exe
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\bin\Debug\net8.0\MyWorkerService.deps.json
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\bin\Debug\net8.0\MyWorkerService.runtimeconfig.json
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\bin\Debug\net8.0\MyWorkerService.dll
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\bin\Debug\net8.0\MyWorkerService.pdb
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\obj\Debug\net8.0\MyWorkerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\obj\Debug\net8.0\MyWorkerService.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\obj\Debug\net8.0\MyWorkerService.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\obj\Debug\net8.0\MyWorkerService.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\obj\Debug\net8.0\MyWorkerService.dll
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\obj\Debug\net8.0\refint\MyWorkerService.dll
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\obj\Debug\net8.0\MyWorkerService.pdb
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\obj\Debug\net8.0\MyWorkerService.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\MyWorkerService\MyWorkerService\obj\Debug\net8.0\ref\MyWorkerService.dll
